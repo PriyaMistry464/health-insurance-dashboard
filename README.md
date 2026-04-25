@@ -1,5 +1,9 @@
 # Health Insurance Plan Intelligence
 
+**Live demo:** [priyamistry.shinyapps.io/health-insurance-dashboard](https://priyamistry.shinyapps.io/health-insurance-dashboard/)
+
+![Dashboard screenshot](assets/dashboard.png)
+
 An R Shiny dashboard that helps you pick the right ACA health insurance plan using actuarial cost modeling and Monte Carlo simulation — not just the cheapest premium.
 
 ## What it does
