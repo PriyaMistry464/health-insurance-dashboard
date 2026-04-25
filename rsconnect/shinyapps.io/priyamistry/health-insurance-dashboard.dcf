@@ -1,0 +1,10 @@
+name: health-insurance-dashboard
+title: Health Insurance Plan Intelligence
+username: priyamistry
+account: priyamistry
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 17218101
+bundleId: 11898458
+url: https://priyamistry.shinyapps.io/health-insurance-dashboard/
+version: 1
